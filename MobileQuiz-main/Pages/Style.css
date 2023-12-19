@@ -1,0 +1,63 @@
+*{
+    margin: 0%;
+    
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.body{
+    background-color: rgba(255, 255, 255, 1);
+    width: 411px;
+}
+
+.purple__background{
+    background-image: url(Resources/StartPageDesign.png);
+    width: 411px;
+    height: 445px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom: 18px;
+    position: relative;
+}
+
+.Sections{
+    height: 492px;
+    width: 316px;
+
+    margin-top: -120px;
+    margin-left: 56px;
+    margin-right: auto;
+
+    position: absolute;
+}
+.Sections button{
+    background-repeat: space; 
+    display:block;
+
+    border-radius: 14px;
+    border: none;
+    box-shadow: 0px 2px 13px 4px rgba(157, 87, 227, 0.25);
+
+    height: 138px;
+    width: 316px;
+}
+.button__shell:not(:last-child){
+    margin-bottom: 26px;
+}
+.Cplus{
+    background-image: url(Resources/C++1.png);
+    background-position-x: -18px;
+    background-position-y: center;
+}
+.Java{
+    background-image: url(Resources/Java.png);
+    background-position-x: -18px;
+    background-position-y: center;
+}
+.Python{
+    background-image: url(Resources/Python.png);
+    background-position-x: -18px;
+    background-position-y: center;
+}
