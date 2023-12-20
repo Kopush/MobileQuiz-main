@@ -18,7 +18,7 @@ const questions = [
         { text: "_gh"},
         { text: "“D(f)”"}
       ],
-      right_answers:["D234","_gh"],
+      right_answers:["D234"],
   },
 
   {
