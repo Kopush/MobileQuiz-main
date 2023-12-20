@@ -14,7 +14,7 @@ const questions = [
         question : "Why use namespaces in XML?",
         answers:[
           { text: "to combine XML with different DTDs in one document"},
-          { text: "namespaces allow you to include the same type of XML documents in each other"},
+          { text: "namespaces allow you to include the same type of XML documents"},
           { text: "namespaces allow you to specify options for an application that processes XML"},
           { text: "to go to the next record of the query result"}
         ],
